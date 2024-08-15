@@ -6,3 +6,5 @@ another fixes in the file
 one more bug detected and fixed.
 
 four bug fixed.
+
+fifth bug fixed.
