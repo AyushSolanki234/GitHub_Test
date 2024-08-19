@@ -1,6 +1,7 @@
 This is a file one for git course
 adding more content at file One.
 
+Another marketing message section addded to file one.
 
 add another marketing nessage section
 add footer notes
